@@ -1,0 +1,3 @@
+[submodule "open-planet"]
+	path = open-planet
+	url = git@github.com:lonelyplanet/open-planet.git
